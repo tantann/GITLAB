@@ -5,7 +5,7 @@ void main()
   float WinAmount[10] = {50000, 10000, 10000, 5000, 5000, 5000, 5000, 3000, 3000, 3000};
   int N = 10;
   int i, won; 
-  
+  /* I changed somthing yeahhhhh */
   int YourLotteryNo;  
    
   printf("Enter your Lottery Number (0 to end): "); 
